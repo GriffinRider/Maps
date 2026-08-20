@@ -1,66 +1,71 @@
 # Space Frontier
 > (XL+U, 1P & 7 CPUs, Objective: Build the Grail in your hometown)
+
 You live on Cosma - one of the Mars' asteroids. Recently the King announced that the first to bring back the Grail from Mars will marry the Princess. Mars is a very dangerous place so you'll need to prepare, but hurry up before anyone steals Grail or your town!
 
 ## Space Frontier 1.4 CHANGELOG
 > (Current version is 1.4 | Version that I've submitted to the Mapmaker's Contest is 1.3 | The first version is Beta)
 
 ### UNDERGROUND:
-	- "Express Route" has been replaced due to it being super ugly with 2 well guarded Monoliths in Question Marks.
-	- Pirate AIs (Pink and Teal) can now be defeated, their towns reside in a new special area near the modified "Express Route".
-	- Minotaurs now have their own area, next to the Swamps.
-	- Old Mino Area is now expanded and rebranded into a desert area with: the Temple of Trails giving primary skills for defeating enemies; 2 new Seer Huts; few mini Creature banks.
-	- If Brown and/or Green Players are undefeated til 213, two powerful Heroes will be released under their command to wreck havoc.
+- "Express Route" has been replaced due to it being super ugly with 2 well guarded Monoliths in Question Marks.
+- Pirate AIs (Pink and Teal) can now be defeated, their towns reside in a new special area near the modified "Express Route".
+- Minotaurs now have their own area, next to the Swamps.
+- Old Mino Area is now expanded and rebranded into a desert area with: the Temple of Trails giving primary skills for defeating enemies; 2 new Seer Huts; few mini Creature banks.
+- If Brown and/or Green Players are undefeated til 213, two powerful Heroes will be released under their command to wreck havoc.
 
-- Reverted back Automaton and Mechanic dwellings into Harpy dwellings (as it was a version before: 1.2) fixing thereby the Robot Seer Hut.
-- Brown Player (Necro AI) now has an access to Brown Keymasters Tent giving it Priority Routes. (omission on my part)
-- Removed starting two Devil dwellings from the Orange Player. (It was supposed to be a nice boost once you defeat Leif Edling, unfortunately it just made players confused)
-- Removed hidden events near Minotaur dwellings prompting a fight with 1 Marksman/Archangel
-
-- Cleaned up some other areas visually.
-- Removed Marletto Tower which was blocking a passage. (really dumb mistake)
-- Replaced the unreachable Enchanter dwelling with some treasure. (It was supposed to be an unreachable dwelling forcing you to take the "secret" path to the Green Tent, but it's not intuitive enough I guess)
+		- Reverted back Automaton and Mechanic dwellings into Harpy dwellings (as it was a version before: 1.2) fixing thereby the Robot Seer Hut.
+		- Brown Player (Necro AI) now has an access to Brown Keymasters Tent giving it Priority Routes. (omission on my part)
+		- Removed starting two Devil dwellings from the Orange Player. (It was supposed to be a nice boost once you defeat Leif Edling, unfortunately it just made players confused)
+		- Removed hidden events near Minotaur dwellings prompting a fight with 1 Marksman/Archangel
+		- Cleaned up some other areas visually.
+		- Removed Marletto Tower which was blocking a passage. (really dumb mistake)
+		- Replaced the unreachable Enchanter dwelling with some treasure. (It was supposed to be an unreachable dwelling forcing you to take the "secret" path to the Green Tent, but it's not intuitive enough I guess)
 
 
 
 ### GROUND:
-	- Some of the close Smaller Islands were converged together or deleted. (to make it less annoying to visit them for just a few stat points)
-	- Cleaned up some areas visually, mainly by replacing the special terrain with other objects. (or messed them up even more, depends on how you see it)
-	- Most of the Subterranean Gates now have normal graphics. (instead of the Dungeon town one)
-	- Main "Bosses" now all have Expert Mysticism so that they won't be as wimpy as they were with no spells to cast.
-	- Vez'nan now has Eagle Eye and all Schools of Magic. In addition his attack and defense were buffed by 5 each. Grail is indicated more clearly with a Gem Trail.
+- Some of the close Smaller Islands were converged together or deleted. (to make it less annoying to visit them for just a few stat points)
+- Cleaned up some areas visually, mainly by replacing the special terrain with other objects. (or messed them up even more, depends on how you see it)
+- Most of the Subterranean Gates now have normal graphics. (instead of the Dungeon town one)
+- Main "Bosses" now all have Expert Mysticism so that they won't be as wimpy as they were with no spells to cast.
+- Vez'nan now has Eagle Eye and all Schools of Magic. In addition his attack and defense were buffed by 5 each. Grail is indicated more clearly with a Gem Trail.
 
-- New Seer Huts.
-- A couple of monster count tweaks.
-- Cartographer on Mars now requires a lv 25 Hero. (from 15)
-- Disabled building Fort in one of the four Strongholds, thereby nerfing it's insane growth.
-- Disabled building Wights in the 1st Necro Town, replaced one of the Wight dwellings with the Skeleton dwelling. (still giving you an option to cheese, but not as hard as before)
-- Small tweaks to Town Events.
-- Buffed smaller Pirates, especially Anabel.
-- Buffed some Creature boxes and added some XP boxes.
-- Added more Border Guards: (color) for the water area restricting some fast passages or objects.
+		- New Seer Huts.
+		- A couple of monster count tweaks.
+		- Cartographer on Mars now requires a lv 25 Hero. (from 15)
+		- Disabled building Fort in one of the four Strongholds, thereby nerfing it's insane growth.
+		- Disabled building Wights in the 1st Necro Town, replaced one of the Wight dwellings with the Skeleton dwelling. (still giving you an option to cheese, but not as hard as before)
+		- Small tweaks to Town Events.
+		- Buffed smaller Pirates, especially Anabel.
+		- Buffed some Creature boxes and added some XP boxes.
+		- Added more Border Guards: (color) for the water area restricting some fast passages or objects.
 
 
 
 ## OTHER MAPS
 - Gold Pile
 > [S, 1P & 3 CPUs, Objective: Accumulate 1.000.000 Gold]
+
 There's a gold pile just by you, allowing you to claim victory. Wait, why are you going throught palms? Secrets? Don't be silly.
 
 - All but One
 > [S+U, 1P & 2 CPUs Objective: Kill Chaos Hydras at 32, 3, 1]
+
 You can do All, but one fight with your starting army. Goal is to do the one fight. Good luck!
 
 - Breeze
 > [L, 1P & 1 CPU, Objective: Kill Black Dragons at 54, 32, 0] UNFINISHED (but playable)
+
 Your Village was burnt to the ashes by a Black Dragon, who to kill boredom just so happened to stumble upon it. You saw it flying next towards the Capitol. You don't really care about the city, but Dragon must be killed.
 
 - Frequency
 > [L+U, 1P & 2 CPU, Objective: Accumulate 100.000 Gold]
+
 You are a descendant of the richest Dwarven Family. Recently to prove your worth, your father has sent you to the mines with a task of accumulating a hefty sum. Dangers await for those brave enough to venture deep into the shadows.
 
 - Road to 500
 > [XH, 1P & 2 CPUs, Objective: Capture the Castle town at 160, 188, 0] UNFINISHED (but playable)
+
 One loyal backseater of Lexiav decided to venture into the unknown looking for something to differentiate him from the crowd.
 
 
