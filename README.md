@@ -9,7 +9,7 @@ You live on Cosma - one of the Mars' asteroids. Recently the King announced that
 ## Space Frontier 1.4 CHANGELOG
 > (Current version is 1.4 | Version that I've submitted to the [Mapmaker's Contest](https://www.heroes3.eu/mapmaker-aw/2026) is 1.3 | The first version was Beta)
 
-> After watching a few streams of [Bulbet](https://www.twitch.tv/bulbet) (huge props to u) I saw so many glaring mistakes in the tourney version so I had to update it at least on my github.
+> After watching a few streams of [Bulbet](https://www.twitch.tv/bulbet) (huge props to you) I saw so many glaring mistakes in the tourney version so I had to update it at least on my github.
 
 > (Both Tourney and Beta version are avalaible on my "Archive" repository | Beta version is SoD (wog-ified) before I added things in HotA)
 
