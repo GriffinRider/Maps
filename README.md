@@ -44,7 +44,7 @@ You live on Cosma - one of the Mars' asteroids. Recently the King announced that
 		- Buffed some Creature boxes and added some XP boxes.
 		- Added more Border Guards: (color) for the water area restricting some fast passages or objects.
 
-![1](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img1.png)
+![1](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img.png)
 ![2](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img2.png)
 ![3](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img3.png)
 ![4](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img4.png)
@@ -60,6 +60,8 @@ There's a gold pile just by you, allowing you to claim victory. Wait, why are yo
 
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Gold%20Pile%20MM.png)
 
+![-](https://github.com/GriffinRider/Maps/blob/main/Images/Gold%20Pile%20Img.png)
+
 - All but One
 > [S+U, 1P & 2 CPUs Objective: Kill Chaos Hydras at 32, 3, 1]
 
@@ -68,12 +70,18 @@ You can do All, but one fight with your starting army. Goal is to do the one fig
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MM.png)
 ![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MMU.png)
 
+![-](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20Img.png)
+
 - Breeze
 > [L, 1P & 1 CPU, Objective: Kill Black Dragons at 54, 32, 0] UNFINISHED (but playable)
 
 Your Village was burnt to the ashes by a Black Dragon, who to kill boredom just so happened to stumble upon it. You saw it flying next towards the Capitol. You don't really care about the city, but Dragon must be killed.
 
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Breeze%20MM.png)
+
+![-](https://github.com/GriffinRider/Maps/blob/main/Images/Breeze%20Img.png)
+![-](https://github.com/GriffinRider/Maps/blob/main/Images/Breeze%20Img2.png)
+
 
 - Frequency
 > [L+U, 1P & 2 CPU, Objective: Accumulate 100.000 Gold]
@@ -83,13 +91,18 @@ You are a descendant of the richest Dwarven Family. Recently to prove your worth
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20MM.png)
 ![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20MMU.png)
 
+![-](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20Img.png)
+![-](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20Img2.png)
+![-](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20Img3.png)
+
+
 - Road to 500
 > [XH, 1P & 2 CPUs, Objective: Capture the Castle town at 160, 188, 0] UNFINISHED (but playable)
 
 One loyal backseater of Lexiav decided to venture into the unknown looking for something to differentiate him from the crowd.
 
-![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Road%20to%20500%20MM.png)
-
+![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Road%20to%20500%20Img.png)
+![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Road%20to%20500%20Img2.png)
 
 
 ## Train [L+U]
