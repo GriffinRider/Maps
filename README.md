@@ -7,7 +7,7 @@ You live on Cosma - one of the Mars' asteroids. Recently the King announced that
 ![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20MMU.png)
 
 ## Space Frontier 1.4 CHANGELOG
-> (Current version is 1.4 | Version that I've submitted to the Mapmaker's Contest is 1.3 | The first version was Beta)
+> (Current version is 1.4 | Version that I've submitted to the [Mapmaker's Contest](https://www.heroes3.eu/mapmaker-aw/2026) is 1.3 | The first version was Beta)
 
 > (Both Tourney and Beta version are avalaible on my "Archive" repository | Beta version is SoD (wog-ified) before I added things in HotA)
 
