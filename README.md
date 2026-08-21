@@ -8,6 +8,7 @@ You live on Cosma - one of the Mars' asteroids. Recently the King announced that
 
 ## Space Frontier 1.4 CHANGELOG
 > (Current version is 1.4 | Version that I've submitted to the Mapmaker's Contest is 1.3 | The first version was Beta)
+
 > (Both Tourney and Beta version are avalaible on my "Archive" repository | Beta version is SoD (wog-ified) before I added things in HotA)
 
 ### UNDERGROUND:
@@ -65,7 +66,7 @@ There's a gold pile just by you, allowing you to claim victory. Wait, why are yo
 - All but One
 > [S+U, 1P & 2 CPUs Objective: Kill Chaos Hydras at 32, 3, 1]
 
-You can do All, but one fight with your starting army. Goal is to do the one fight. Good luck!
+You can do All, but one fight with your starting army. Goal is to do that one fight. Good luck!
 
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MM.png)
 ![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MMU.png)
