@@ -46,12 +46,14 @@ You live on Cosma - one of the Mars' asteroids. Recently the King announced that
 
 ## OTHER MAPS
 - Gold Pile
+
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Gold%20Pile%20MM.png)
 > [S, 1P & 3 CPUs, Objective: Accumulate 1.000.000 Gold]
 
 There's a gold pile just by you, allowing you to claim victory. Wait, why are you going throught palms? Secrets? Don't be silly.
 
 - All but One
+
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MM.png)
 ![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MMU.png)
 > [S+U, 1P & 2 CPUs Objective: Kill Chaos Hydras at 32, 3, 1]
@@ -59,12 +61,14 @@ There's a gold pile just by you, allowing you to claim victory. Wait, why are yo
 You can do All, but one fight with your starting army. Goal is to do the one fight. Good luck!
 
 - Breeze
+
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Breeze%20MM.png)
 > [L, 1P & 1 CPU, Objective: Kill Black Dragons at 54, 32, 0] UNFINISHED (but playable)
 
 Your Village was burnt to the ashes by a Black Dragon, who to kill boredom just so happened to stumble upon it. You saw it flying next towards the Capitol. You don't really care about the city, but Dragon must be killed.
 
 - Frequency
+
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20MM.png)
 ![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20MMU.png)
 > [L+U, 1P & 2 CPU, Objective: Accumulate 100.000 Gold]
@@ -72,6 +76,7 @@ Your Village was burnt to the ashes by a Black Dragon, who to kill boredom just 
 You are a descendant of the richest Dwarven Family. Recently to prove your worth, your father has sent you to the mines with a task of accumulating a hefty sum. Dangers await for those brave enough to venture deep into the shadows.
 
 - Road to 500
+
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Road%20to%20500%20MM.png)
 > [XH, 1P & 2 CPUs, Objective: Capture the Castle town at 160, 188, 0] UNFINISHED (but playable)
 
@@ -167,4 +172,4 @@ Whoever controls the middle grass castle at 141 is a winner. Forfeit is also obv
 
 ### Info
 ![template picture](https://github.com/GriffinRider/Maps/blob/main/Images/HUsk%20Img.png)
-Very big, very poor map.
+Very big, very poor map. I took the layout of the template from one of the templates of Animal Lane by Uglie, after being not satisfied with the layouts I'd made before [ https://www.twitch.tv/Uglie ]
