@@ -2,11 +2,13 @@
 > (XL+U, 1P & 7 CPUs, Objective: Build the Grail in your hometown)
 
 You live on Cosma - one of the Mars' asteroids. Recently the King announced that the first to bring back the Grail from Mars will marry the Princess. Mars is a very dangerous place so you'll need to prepare, but hurry up before anyone steals Grail or your town!
+
 ![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20MM.png)
 ![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20MMU.png)
 
 ## Space Frontier 1.4 CHANGELOG
-> (Current version is 1.4 | Version that I've submitted to the Mapmaker's Contest is 1.3 | The first version is Beta | Both Tourney and Beta version are avalaible on my "Archive" repository)
+> (Current version is 1.4 | Version that I've submitted to the Mapmaker's Contest is 1.3 | The first version was Beta)
+> (Both Tourney and Beta version are avalaible on my "Archive" repository | Beta version is SoD (wog-ified) before I added things in HotA)
 
 ### UNDERGROUND:
 - "Express Route" has been replaced due to it being super ugly with 2 well guarded Monoliths in Question Marks.
@@ -42,45 +44,51 @@ You live on Cosma - one of the Mars' asteroids. Recently the King announced that
 		- Buffed some Creature boxes and added some XP boxes.
 		- Added more Border Guards: (color) for the water area restricting some fast passages or objects.
 
+![1](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img1.png)
+![2](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img2.png)
+![3](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img3.png)
+![4](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img4.png)
+![5](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img5.png)
+![6](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20Img6.png)
 
 
 ## OTHER MAPS
 - Gold Pile
-
-![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Gold%20Pile%20MM.png)
 > [S, 1P & 3 CPUs, Objective: Accumulate 1.000.000 Gold]
 
 There's a gold pile just by you, allowing you to claim victory. Wait, why are you going throught palms? Secrets? Don't be silly.
 
-- All but One
+![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Gold%20Pile%20MM.png)
 
-![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MM.png)
-![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MMU.png)
+- All but One
 > [S+U, 1P & 2 CPUs Objective: Kill Chaos Hydras at 32, 3, 1]
 
 You can do All, but one fight with your starting army. Goal is to do the one fight. Good luck!
 
-- Breeze
+![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MM.png)
+![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/All%20but%20One%20MMU.png)
 
-![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Breeze%20MM.png)
+- Breeze
 > [L, 1P & 1 CPU, Objective: Kill Black Dragons at 54, 32, 0] UNFINISHED (but playable)
 
 Your Village was burnt to the ashes by a Black Dragon, who to kill boredom just so happened to stumble upon it. You saw it flying next towards the Capitol. You don't really care about the city, but Dragon must be killed.
 
-- Frequency
+![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Breeze%20MM.png)
 
-![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20MM.png)
-![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20MMU.png)
+- Frequency
 > [L+U, 1P & 2 CPU, Objective: Accumulate 100.000 Gold]
 
 You are a descendant of the richest Dwarven Family. Recently to prove your worth, your father has sent you to the mines with a task of accumulating a hefty sum. Dangers await for those brave enough to venture deep into the shadows.
 
-- Road to 500
+![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20MM.png)
+![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/Frequency%20MMU.png)
 
-![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Road%20to%20500%20MM.png)
+- Road to 500
 > [XH, 1P & 2 CPUs, Objective: Capture the Castle town at 160, 188, 0] UNFINISHED (but playable)
 
 One loyal backseater of Lexiav decided to venture into the unknown looking for something to differentiate him from the crowd.
+
+![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Road%20to%20500%20MM.png)
 
 
 
@@ -100,6 +108,7 @@ Whoever controls the middle desert castle at 211 or wins a fight against the oth
 
 ### Info
 ![template picture](https://github.com/GriffinRider/Maps/blob/main/Images/Train%20Img.png)
+
 Starting Zone and 3rd Zone after it, have: Underground Gate, creatures always willing to join for gold (50/75%), some mines and a bunch of Refugee Camps. Starting Zone also can have up to 2 Town Portal scrolls (not guaranteed).
 
 Ground zones usually have a few high tier Creature Dwellings and Resource Banks (favors building).
@@ -128,6 +137,7 @@ Whoever controls the middle grass castle at 141 is a winner. Forfeit is also obv
 
 ### Info
 ![template picture](https://github.com/GriffinRider/Maps/blob/main/Images/Pirate%20Wars%20Img.png)
+
 Starting Zone has Admiral Hat and some Shacks and Frigates.  Admiral Hat is not guaranteed, some generations fail. No technical resets. It is connected to Rough Zone and Snow Zone.
 Rough Zone has Medusa Stores, Pirate Caverns and a Wolf Raider Picket.
 Snow Zone has Ancient Lamps, Experimental Shops and an Ivory Tower.
@@ -150,6 +160,7 @@ Whoever first loses hero, loses. Since there's four treasures, there's no "one" 
 
 ### Info
 ![template picture](https://github.com/GriffinRider/Maps/blob/main/Images/Plains%20of%20Salt%20Img.png)
+
 You start in a poor zone with two sawmills, an ore pit and few low level dwellings.
 Road splits into two rich zones which usually generate a lot of hives and pickets.
 
@@ -172,4 +183,5 @@ Whoever controls the middle grass castle at 141 is a winner. Forfeit is also obv
 
 ### Info
 ![template picture](https://github.com/GriffinRider/Maps/blob/main/Images/HUsk%20Img.png)
+
 Very big, very poor map. I took the layout of the template from one of the templates of Animal Lane by Uglie, after being not satisfied with the layouts I'd made before [ https://www.twitch.tv/Uglie ]
