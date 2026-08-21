@@ -2,6 +2,8 @@
 > (XL+U, 1P & 7 CPUs, Objective: Build the Grail in your hometown)
 
 You live on Cosma - one of the Mars' asteroids. Recently the King announced that the first to bring back the Grail from Mars will marry the Princess. Mars is a very dangerous place so you'll need to prepare, but hurry up before anyone steals Grail or your town!
+![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20MM.png)
+![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/Space%20Frontier%20Upd%20MMU.png)
 
 ## Space Frontier 1.4 CHANGELOG
 > (Current version is 1.4 | Version that I've submitted to the Mapmaker's Contest is 1.3 | The first version is Beta)
