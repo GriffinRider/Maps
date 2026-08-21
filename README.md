@@ -197,4 +197,4 @@ Whoever controls the middle grass castle at 141 is a winner. Forfeit is also obv
 ### Info
 ![template picture](https://github.com/GriffinRider/Maps/blob/main/Images/HUsk%20Img.png)
 
-Very big, very poor map. I took the layout of the template from one of the templates of Animal Lane by Uglie, after being not satisfied with the layouts I'd made before [ https://www.twitch.tv/Uglie ]
+Very big, very poor map. I took the layout of template from Animal Lane by [Uglie](https://www.twitch.tv/Uglie), after unsuccesful experiments with making my own layout for such a big map
