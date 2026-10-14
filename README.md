@@ -56,6 +56,25 @@ You live on Cosma - one of the Mars' asteroids. Recently the King announced that
 
 
 
+# Prochnica 2 - Powrot nalotu
+> (M+U, 3P/CPU + 3 CPUs, Objective: Flag all Mines or Defeat all Enemies)
+
+Zaleznie od wybranego koloru, tak trudna bedzie mapa:
+Zielony - Lekarz (Latwy - Zwykly gameplay),
+Brazowy - Próchnica (Sredni - Tower Defence przez pierwsze 2 tygodnie),
+Pomaranczowy - Jasiek (Trudny - Challenge Map)
+
+![minimap picture of the ground](https://github.com/GriffinRider/Maps/blob/main/Images/Prochnica%202%20MM.png)
+![minimap picture of the underground](https://github.com/GriffinRider/Maps/blob/main/Images/Prochnica%202%20MMU.png)
+
+		- orange był najbardziej testowanym ze wszystkich kolorów i wszystkie walki przeszedłem osobiście. na walke z powietrzakami potrzebujesz gargulców nie żadnej morali (żadna walka nie przewiduje morali), które zużywasz na walkę wcześniej w 1. tygodniu -> musisz jakoś przetrwać do 121 by zatrudnić gagri i w zamku możesz po paru turach zbaitować powietrzaki na katapulte uciekając cyklopem za mur i spokojnie strzelając 
+
+![1](https://github.com/GriffinRider/Maps/blob/main/Images/Prochnica%202%20Img.png)
+![2](https://github.com/GriffinRider/Maps/blob/main/Images/Prochnica%202%20Img2.png)
+![3](https://github.com/GriffinRider/Maps/blob/main/Images/Prochnica%202%20Img3.png)
+
+
+
 ## Train [L+U]
 
 ### History
