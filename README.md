@@ -59,6 +59,8 @@ You live on Cosma - one of the Mars' asteroids. Recently the King announced that
 ## Prochnica 2 - Powrot nalotu
 > (M+U, 3P/CPU + 3 CPUs, Objective: Flag all Mines or Defeat all Enemies)
 
+> Map inspired by Prochnica by ruprecht (avalaible on my "Archive" repository)
+
 Zaleznie od wybranego koloru, tak trudna bedzie mapa:
 
 Zielony - Lekarz (Latwy - Zwykly gameplay),
